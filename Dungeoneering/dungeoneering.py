@@ -53,7 +53,7 @@ def main():
     health = START_HEALTH
     inventory = []
 
-    print("Welcome to Escape the Dungeon!")
+    print("Welcome to Dungeoneering!")
     print("Find the Exit to win. Watch out for traps and monsters!\n")
 
     while health > 0:
